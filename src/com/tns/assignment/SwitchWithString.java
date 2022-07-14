@@ -28,7 +28,7 @@ public class SwitchWithString {
 				break;
 				default:
 					
-					System.out.println("Data not found");
+					System.out.println("Atish,22,Chawalmandi,7058877286");
 					break;}
 
 		// TODO Auto-generated method stub
