@@ -1,4 +1,4 @@
-package com.tns.weekendexecise;
+package com.tns.weekendexecises;
 
 public class FibonacciSeries {
 
